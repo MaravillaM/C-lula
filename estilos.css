@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+src: url('code_bold-webfont.eot');
+    src: url('code_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('code_bold-webfont.woff2') format('woff2'),
+         url('code_bold-webfont.woff') format('woff'),
+         url('code_bold-webfont.ttf') format('truetype'),
+         url('code_bold-webfont.svg#code_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+ 
+}
+ 
+*{
+    font-family: 'code_boldregular';
+}
+ 
+body{
+    background-image: url(back.jpg);
+}
+ 
+#contSaludo{
+    background: rgba(0,0,0,.7);
+    color: #fff;
+    display: block;
+    font-size: 3em;
+    margin: 40px 0 10px 40px;
+    padding: 40px 0;
+    text-align: center;
+    width: 500px;
+}
+ 
+#contReloj{
+    background: rgba(0,0,0,.7);
+    display: block;
+    margin: 0 0 40px 40px;
+    text-align: center;
+    width: 500px;
+}
+ 
+#contReloj > p{
+    color: #fff;
+    display: inline-block;
+    font-family: 'code_boldregular';
+    font-size: 6em;
+}
+* {
+	margin:0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background:url(bg.jpg) #F0F0F0;
+	background-size:cover;
+	color:#fff;
+	font-size: 16px;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #F00;
+	font-weight: bold;
+}
+body {
+	background-color: #03F;
+}
+strong {
+	color: #0C0C0C;
+}
+strong {
+	color: #00FF40;
+}
+strong {
+	color: #000;
+	font-size: 36px;
+}
+body div strong {
+	color: #0F0;
+}
+body p strong {
+	color: #040404;
+}
+.Cultura {	color: #FFF;
+}
+ {	color: #FFF;
+}
+.Inicio {	color: #FFF;
+}
+.Locales {
+	color: #FFF;
+	font-size: 24px;
+}
+.Videos {	color: #FFF;
+}
+.Inicio strong a {
+	color: #FFF;
+}
+.Historia strong {
+	color: #FFF;
+}
+body p {
+	color: #FFF;
+}
+body div strong {
+	font-family: Times New Roman, Times, serif;
+}
+body {
+	color: #FFF;
+	background-color: #666666;
+}
